@@ -48,7 +48,7 @@
 ![WSL](https://img.shields.io/badge/-WSL%202-0078D6?style=flat&logo=windows&logoColor=FFFFFF)
 
 
-## Environments
+## 💻 Environments
 
 ![GNUBash](https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=flat&logo=gnu%20bash&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
