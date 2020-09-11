@@ -35,11 +35,12 @@
 
 **In-usage Infra |**
 ![AmazonAWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=FFFFFF)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=FFFFFF)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF)
+![NewRelic](https://img.shields.io/badge/-New%20Relic-008C99?style=flat&logo=new%20relic&logoColor=FFFFFF)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=FFFFFF)
-![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=FFFFFF)
 ![Sentry](https://img.shields.io/badge/-Sentry-FB4226?style=flat&logo=sentry&logoColor=FFFFFF)
 
 **Experienced |**
@@ -81,3 +82,5 @@ Contect to below! Available anytime.
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hongkim9815@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/hongkim9815)
 ![Discord](https://img.shields.io/badge/-hongkim%20%230658-7289DA?style=flat&logo=discord&logoColor=white)
+
+<br>
