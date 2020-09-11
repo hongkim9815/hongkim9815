@@ -1,64 +1,74 @@
-### **Kihong Kim (hongkim9815)**
+## ❓ whoami
 
-## :mortar_board: Education
+### Kihong Kim (hongkim9815 | eric)
 
-**Undergraduate Course in KAIST School of Computing:** Feb 2017 -   (not graduated yet)
-
-**Busan Science High School:** Feb 2014 - Feb 2017
-
-## :work: Work
+**Backend Developer | Undergraduate Student | Skilled Industry Personnel (Alternative Military Service) | LCK Fan | RPG Gamer | ...**
 
 
+## 🎓 Education
 
--   :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
--   :ringed_planet: Looking forward to global net zero, Mars & the rest of space, and nuclear fusion
--   :mailbox: Ask me about accessibility, cybersecurity, web, full stack, or literally anything!
+**Undergraduate Course in KAIST School of Computing** | Feb 2017 - Now  (Leave of Absence)
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+**Busan Science High School** | Feb 2014 - Feb 2017
 
-## :skill: Experienced Stack
+## 🏢 Work
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+**[Dunamu](dunamu.com)** | Rails Server Backend Developer | Apr 2020 - Now
 
-**Some of the technologies I have worked with**
+**[Jr Coding Lab](jrcodingac.kr) (Startup)** | Internship Student | Dec 2019 - Feb 2020
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
+## 💎 Tech Stack
 
-**Some of my projects**
+### Major Langs & Frameworks
+![C](https://img.shields.io/badge/-C-888888?style=flat&logo=c&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
+![RubyonRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby%20on%20rails&logoColor=FFFFFF)
 
-Web/Full Stack:
-[🧬My Website](https://github.com/adamalston/v2),
-[🦠COVID-19 Dashboard](https://github.com/adamalston/COVID-19-Dashboard),
-[📰Summarizer](https://github.com/adamalston/Summarizer),
-[🃏Voice Poker](https://github.com/adamalston/Poker),
-[🗺️PokémonGo Map](https://github.com/adamalston/PokemonGo-Map)
 
-Cybersecurity:
-[🩸Heartbleed](https://github.com/adamalston/Heartbleed),
-[🌊SYN Flood](https://github.com/adamalston/SYN-Flood),
-[🗃️Packet Sniffing & Spoofing](https://github.com/adamalston/Packet-Sniffing-and-Spoofing),
-[💉SQL Injection](https://github.com/adamalston/SQL-Injection),
-[🛡️Spectre & Meltdown](https://github.com/adamalston/Meltdown-Spectre)
+**In-usage Infra |**
+![AmazonAWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=FFFFFF)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=FFFFFF)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=FFFFFF)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=FFFFFF)
+![Sentry](https://img.shields.io/badge/-Sentry-FB4226?style=flat&logo=sentry&logoColor=FFFFFF)
 
-Other:
-[🧽Clean My Mac](https://github.com/adamalston/Clean-My-Mac),
-[📧SMTP](https://github.com/adamalston/SMTP),
-[📡Network Tools](https://github.com/adamalston/Network-Tools),
-[⚙Cache Simulator](https://github.com/adamalston/CacheSimulator),
-[🌈RGB Text Colorizer](https://github.com/adamalston/rgbTextColorizer)
+**Experienced |**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF)
+![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=FFFFFF)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF)
+
+**Interested in |**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=FFFFFF)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=FFFFFF)
+![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFFFFF)
+
+
+## Environments
+
+![GNUBash](https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=flat&logo=gnu%20bash&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
+![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=FFFFFF)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij%20idea&logoColor=FFFFFF)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=FFFFFF)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=FFFFFF)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=FFFFFF)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=FFFFFF)
+
+I always welcome your tool recommendations.
+
+
+## If you are interested in me...
+
+Contect to below! Available anytime.
+
+[![Kakaotalk](https://img.shields.io/badge/-KakaoTalk-FFDC00?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAA3NCSVQICAjb4U/gAAAA3UlEQVQokZWSTwsBURTFz3vmjxc7ViMRX0CxsbKwtOArKBa+k618ASuxlJKVUpIFNZGFneKZmfdskD8zPGd1u51f5566RK7wl+h/dh+AAiF1gMLestk8+oV5BULoj6KDMVMGAF2TugYAIICpANxEIARqDUsJIAQIo9pKVEochgIQNmW7HUtZXrN+wEUpQXZ7rFzk8HyO1T5XZ06HHZukU1PLyeeOcL4mOC7hHNCxn+wK1fh6zd4s5OWXKDY2c11k0ydQLJaRTPJkGAIyCHhEivss8ez26yAC5qAOP3UFWIs+UCNax+0AAAAASUVORK5CYII=&logoColor=white)](open.kakao.com/me/hongkim9815)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](t.me/hongkim9815)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hongkim9815@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/hongkim9815)
+![Discord](https://img.shields.io/badge/-hongkim%20%230658-7289DA?style=flat&logo=discord&logoColor=white)
