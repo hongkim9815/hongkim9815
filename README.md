@@ -4,6 +4,7 @@
 
 **Backend Developer | Undergraduate Student | Skilled Industry Personnel (Alternative Military Service) | LCK Fan | RPG Gamer | ...**
 
+<br>
 
 ## 🎓 Education
 
@@ -11,20 +12,26 @@
 
 **Busan Science High School** | Feb 2014 - Feb 2017
 
+<br>
+
 ## 🏢 Work
 
 **[Dunamu](dunamu.com)** | Rails Server Backend Developer | Apr 2020 - Now
 
 **[Jr Coding Lab](jrcodingac.kr) (Startup)** | Internship Student | Dec 2019 - Feb 2020
 
+<br>
+
 ## 💎 Tech Stack
 
 ### Major Langs & Frameworks
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-888888?style=flat&logo=c&logoColor=FFFFFF)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
 ![RubyonRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby%20on%20rails&logoColor=FFFFFF)
 
+<br>
 
 **In-usage Infra |**
 ![AmazonAWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=FFFFFF)
@@ -47,6 +54,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFFFFF)
 ![WSL](https://img.shields.io/badge/-WSL%202-0078D6?style=flat&logo=windows&logoColor=FFFFFF)
 
+<br>
 
 ## 💻 Environments
 
@@ -60,8 +68,9 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=FFFFFF)
 
-I always welcome your tool recommendations.
+I always welcome your tool recommendations!
 
+<br>
 
 ## If you are interested in me...
 
