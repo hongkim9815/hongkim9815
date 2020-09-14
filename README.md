@@ -77,10 +77,10 @@ I always welcome your tool recommendations!
 
 Contect to below! Available anytime.
 
-[![Kakaotalk](https://img.shields.io/badge/-KakaoTalk-FFE400?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAA3NCSVQICAjb4U/gAAAA3UlEQVQokZWSTwsBURTFz3vmjxc7ViMRX0CxsbKwtOArKBa+k618ASuxlJKVUpIFNZGFneKZmfdskD8zPGd1u51f5566RK7wl+h/dh+AAiF1gMLestk8+oV5BULoj6KDMVMGAF2TugYAIICpANxEIARqDUsJIAQIo9pKVEochgIQNmW7HUtZXrN+wEUpQXZ7rFzk8HyO1T5XZ06HHZukU1PLyeeOcL4mOC7hHNCxn+wK1fh6zd4s5OWXKDY2c11k0ydQLJaRTPJkGAIyCHhEivss8ez26yAC5qAOP3UFWIs+UCNax+0AAAAASUVORK5CYII=&logoColor=white)](open.kakao.com/me/hongkim9815)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](t.me/hongkim9815)
+[![Kakaotalk](https://img.shields.io/badge/-KakaoTalk-FFE400?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAA3NCSVQICAjb4U/gAAAA3UlEQVQokZWSTwsBURTFz3vmjxc7ViMRX0CxsbKwtOArKBa+k618ASuxlJKVUpIFNZGFneKZmfdskD8zPGd1u51f5566RK7wl+h/dh+AAiF1gMLestk8+oV5BULoj6KDMVMGAF2TugYAIICpANxEIARqDUsJIAQIo9pKVEochgIQNmW7HUtZXrN+wEUpQXZ7rFzk8HyO1T5XZ06HHZukU1PLyeeOcL4mOC7hHNCxn+wK1fh6zd4s5OWXKDY2c11k0ydQLJaRTPJkGAIyCHhEivss8ez26yAC5qAOP3UFWIs+UCNax+0AAAAASUVORK5CYII=&logoColor=white)](https://open.kakao.com/me/hongkim9815)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/hongkim9815)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hongkim9815@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/hongkim9815)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongkim9815)
 ![Discord](https://img.shields.io/badge/-hongkim%20%230658-7289DA?style=flat&logo=discord&logoColor=white)
 
 <br>
