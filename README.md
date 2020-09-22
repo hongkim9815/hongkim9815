@@ -8,7 +8,7 @@
 
 ## 🎓 Education
 
-**Undergraduate Course in KAIST School of Computing** | Feb 2017 - Now  (Leave of Absence)
+**Undergraduate Course | KAIST School of Computing** | Feb 2017 - Now  (Leave of Absence)
 
 **Busan Science High School** | Feb 2014 - Feb 2017
 
