@@ -2,7 +2,7 @@
 
 ### Kihong Kim (hongkim9815 | eric)
 
-**Backend Developer | Undergraduate Student | Skilled Industry Personnel (Alternative Military Service) | LCK Fan | RPG Gamer | ...**
+**Backend Developer && Undergraduate Student && Skilled Industry Personnel (Alternative Military Service) && ...**
 
 <br>
 
@@ -16,7 +16,7 @@
 
 ## 🏢 Work
 
-**[Dunamu](dunamu.com)** | Rails Server Backend Developer | Apr 2020 - Now
+**[Dunamu](dunamu.com)** | Cryptocurrency Exchange Server Backend Developer | Apr 2020 - Now
 
 **[Jr Coding Lab](jrcodingac.kr) (Startup)** | Internship Student | Dec 2019 - Feb 2020
 
@@ -25,11 +25,10 @@
 ## 💎 Tech Stack
 
 ### Major Langs & Frameworks
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-888888?style=flat&logo=c&logoColor=FFFFFF)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![RubyonRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby%20on%20rails&logoColor=FFFFFF)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
-![RubyonRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby%20on%20rails&logoColor=FFFFFF)
 
 <br>
 
@@ -44,6 +43,7 @@
 ![Sentry](https://img.shields.io/badge/-Sentry-FB4226?style=flat&logo=sentry&logoColor=FFFFFF)
 
 **Experienced |**
+![C](https://img.shields.io/badge/-C-888888?style=flat&logo=c&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF)
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=FFFFFF)
